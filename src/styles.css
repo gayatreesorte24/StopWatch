@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.action-buttons {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.action-buttons > button {
+  background-color: lightblue;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.timer {
+  font-size: larger;
+}
